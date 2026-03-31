@@ -1,6 +1,8 @@
 # AutoEIT Test Task I: Audio File Transcription
 
 **Applicant:** Devansh Srivastava  
+**E-Mail ID:** devanshsrivastava.reads@gmail.com
+**LinkedIN:** [https://www.linkedin.com/in/connectwithdevansh/](https://www.linkedin.com/in/connectwithdevansh/)  
 **Target Project:** AutoEIT (GSoC 2026)  
 
 ## 📌 Project Overview
