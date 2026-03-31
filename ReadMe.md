@@ -34,3 +34,6 @@ As a non-native Spanish speaker, relying solely on manual acoustic evaluation to
 1. Open `AutoEIT_Task_1.ipynb` in Google Colab (recommended for free T4 GPU access).
 2. Upload the raw audio files (`.mp3` or `.wav`) and the empty target stimuli CSV.
 3. Run the cells sequentially to install dependencies, generate the base ASR transcriptions, execute the fuzzy alignment sequence, and export the final analytical report.
+
+##📜 Program Output
+[VIEW DETAILED PDF](https://drive.google.com/file/d/1JRWz3stGEvru8dyQ55odmYslzZRR8-uy/view?usp=sharing)
